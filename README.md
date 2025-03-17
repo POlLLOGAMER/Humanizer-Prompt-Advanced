@@ -11,7 +11,8 @@ Escribe esto con media descoherencia, de modo de un modo no estructurado por com
 
 ## Benchmarks in diferents languaje
 ### Texto de prueba en ambos idiomas
-#### Español: El Gato Cósmico y la Búsqueda del Hilo Perdido
+
+#### Español: El Gato Cósmico y la Búsqueda del Hilo Perdido (Texto original 100 porciento de probabilidad de que sea IA) (Original text 100 percent chance it's AI)
 
 En el corazón de un vecindario tranquilo, vivía un gato atigrado llamado Cósmico. A diferencia de sus compañeros felinos, Cósmico no se conformaba con las siestas al sol y los ratones de juguete. Soñaba con aventuras, con explorar más allá del jardín y descubrir los secretos del universo.
 
@@ -27,7 +28,7 @@ Decepcionado, pero también iluminado, Cósmico regresó a casa. Aunque no encon
 
 Y así, Cósmico, el gato aventurero, siguió explorando el mundo, no en busca de tesoros perdidos, sino en busca de experiencias y conexiones que enriquecieran su vida.
 
-#### English: Cosmic the Cat and the Quest for the Lost Thread
+#### English: Cosmic the Cat and the Quest for the Lost Thread (Texto original 100 porciento de posibilidad de que sea IA) (Original text 100 percent chance it's AI)
 
 In the heart of a quiet neighborhood lived a tabby cat named Cosmic. Unlike his feline companions, Cosmic wasn't content with sun naps and toy mice. He dreamed of adventures, of exploring beyond the garden and discovering the secrets of the universe.
 
