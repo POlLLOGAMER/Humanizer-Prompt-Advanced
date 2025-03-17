@@ -43,3 +43,14 @@ Finally, after days of searching, Cosmic arrived at a dusty library. There, amon
 Disappointed, but also enlightened, Cosmic returned home. Although he didn't find a magical thread, he had discovered something much more valuable: the joy of adventure, the friendship of strangers, and the importance of never stopping to seek.
 
 And so, Cosmic, the adventurous cat, continued to explore the world, not in search of lost treasures, but in search of experiences and connections that enriched his life.
+
+### Benchmarks of different llms humanizing texts with HPA (Humanizer Prompt Advanced)
+#### English
+GPT 4o: 
+Mixtral
+
+#### Spanish
+GPT 4o
+Qwen 2.5 
+
+
