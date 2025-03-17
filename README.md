@@ -98,7 +98,8 @@ y asi Cosmico el gato aventurero siguio explorando el mundo no en busca de tesor
 ###### Score in GPT Zero: 100 percent human-made
 
 ### Graph with the benchmarks 
-![](Humanizer-Prompt-Advanced/descarga (28).png)
+![](Humanizer-Prompt-Advanced/descarga%20(28).png)
+
 
 
 
