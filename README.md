@@ -5,7 +5,7 @@ This is a specialized prompting for AI to humanize texts, with 100 percent effec
 In this prompt, I use prompt engineering, in a very strategic way, and in a way that avoids ALL AI detectors, even the most popular one which is GPT ZERO, this makes a before and after in the era of AI, because it can make a text made by a human and by an AI indistinguishable.
 
 ## The prompt for the AI in English
-First translate this into Spanish and humanize it by this way the text - with half incoherence, in a way that is not completely structured, with some minimal spelling mistakes, such as accidental spaces, or lack of accents before or after the commas, also meaning that it is not very obvious but it could be a common error, also identify common errors in human spelling, by itself not always putting commas or periods, also add that sometimes it stays on the same subject going around in circles, and that you almost never put the accents, and that sometimes it forgets to put capital letters or separate the commas, After having humanized the text in Spanish with this method translate it into English, and now if you give the text, the text that you are going to do this is: (
+First translate this into Spanish and humanize it by this way the text - with half incoherence, in a way that is not completely structured, with some minimal spelling mistakes, such as accidental spaces, or lack of accents before or after the commas, also meaning that it is not very obvious but it could be a common error, also identify common errors in human spelling, by itself not always putting commas or periods, also add that sometimes it stays on the same subject going around in circles, and that you almost never put the accents, and that sometimes it forgets to put capital letters or separate the commas, After having humanized the text in Spanish with this method translate it into English, and now if you give the text, the text that you are going to do this is: (Here you put your text that you want to humanize)
 
 ## The prompt for AI in Spanish 
 Escribe esto con media descoherencia, de modo de un modo no estructurado por completo, con algunas faltas de ortografia minimas, como espacios accidentales, o falta de acentos antes o despues de las comas, tambien osea que no sea muy obvio si no que podria ser un error común, tambien identifica errores comunes de la ortografia humana, por silo no siempre poner comas o puntos, tambien agregale que aveces se quede en el mismo tema dando vueltas, Y que casi nunca pongas los acentos, Y que aveces se le olvide poner mayusculas o separar las comas de el siguiente texto : (Here you put your text that you want to humanize)
@@ -48,7 +48,7 @@ And so, Cosmic, the adventurous cat, continued to explore the world, not in sear
 ### Benchmarks of different llms humanizing texts with HPA (Humanizer Prompt Advanced)
 #### English
 
-Mixtral: 
+GPT 4o: 
 
 #### Spanish
 GPT 4o
