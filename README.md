@@ -62,7 +62,7 @@ Finally after days of searching cosmic arrived at a dusty library There among mo
 Disappointed but also enlightened cosmic returned home Although he didn't find a magical thread he had discovered something much more valuable the joy of adventure the friendship of strangers and the importance of never stopping to seek
 
 And so cosmic the adventurous cat continued to explore the world not in search of lost treasures but in search of experiences and connections that enriched his life although sometimes I think he should have kept looking for that magical thread who knows maybe another day he'll try again
-###### Score: 53 percent human probability: 53 percent of it being made by a human
+###### Score in GPT Zero: 53 percent human probability: 53 percent of it being made by a human
 
 #### Spanish
 ##### GPT 4o:
@@ -95,7 +95,7 @@ finalmente despues de dias de busqueda Cosmico llego a una biblioteca polvorient
 decepcionado pero tambien iluminado Cosmico regreso a casa aunque no encontro un hilo magico habia descubierto algo mucho mas valioso la alegria de la aventura la amistad de extraños y la importancia de nunca dejar de buscar porque eso era lo que hacia la vida interesante para el y no queria dejar de hacerlo nunca
 
 y asi Cosmico el gato aventurero siguio explorando el mundo no en busca de tesoros perdidos sino en busca de experiencias y conexiones que enriquecieran su vida aunque claro tambien seguia pensando en otros misterios que quizas un dia resolveria pero por ahora estaba bien con lo que tenia y con lo que habia aprendido en su camino
-###### Score in GPT zero: 100 percent human-made
+###### Score in GPT Zero: 100 percent human-made
 
 
 
