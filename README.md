@@ -48,19 +48,21 @@ And so, Cosmic, the adventurous cat, continued to explore the world, not in sear
 ### Benchmarks of different llms humanizing texts with HPA (Humanizer Prompt Advanced)
 #### English
 
-Qwen 2.5 : In the heart of a quiet neighborhood lived a tabby cat named Cosmic unlike his feline friends Cosmic wasn't content with sun naps and toy mice he dreamed of adventures of exploring beyond the garden and discovering the secrets of the universe
+##### Qwen 2.5 MAX:
+In the heart of a quiet neighborhood lived a tabby cat named Cosmic not like his feline companions, Cosmic wasn't content with sun naps and toy mice He dreamed of adventures of exploring beyond the garden and discovering the secrets of the universe
 
-One starry night Cosmic overheard a conversation between two stray cats They spoke of "Ariadne's Thread" a magical thread that could guide anyone through labyrinths and unimaginable dangers and which according to legend was hidden somewhere in the city
+One starry night cosmic overheard a conversation between two stray cats They spoke of "Ariadne's Thread," a magical thread that could guide anyone through labyrinths and unimaginable dangers and which according to legend was hidden somewhere in the city it reminds me of when I was young and always looked for strange things like that thread but never found them though I still had fun
 
-Cosmic's curiosity ignited like a supernova without hesitation he packed his tiny backpack with a sardine and a ball of yarn and ventured into the darkness His journey led him through mysterious alleys abandoned gardens and even to the edge of a moonlit river
+Cosmic's curiosity ignited like a supernova without thinking twice he packed his tiny backpack with a sardine and a ball of yarn and ventured into the darkness His journey led him through mysterious alleys abandoned gardens and even to the edge of a moonlit river
 
-At every corner Cosmic encountered peculiar characters an old dog with an eye patch who told him stories of sailors a Siamese cat who knew all the neighborhood gossip and a group of poet mice who recited verses to the moon
+At every corner cosmic encountered peculiar characters an old dog with an eye patch who told him stories of sailors a Siamese cat who knew all the neighborhood gossip and a group of poet mice who recited verses to the moon sometimes I wonder if those mice still write poems I think they do because I once saw something similar though I'm not sure
 
-Finally after days of searching Cosmic arrived at a dusty library There among mountains of forgotten books he found an old turtle reading an ancient tome The turtle revealed that Ariadne's Thread was not a physical thread but a metaphor for wisdom and perseverance
+Finally after days of searching cosmic arrived at a dusty library There among mountains of forgotten books he found an old turtle reading an ancient tome The turtle revealed that Ariadne's Thread was not a physical thread but a metaphor for wisdom and perseverance of course I didn't understand that the first time someone explained it to me it also confused me a lot
 
-Disappointed but also enlightened Cosmic returned home Although he didn't find a magical thread he had discovered something much more valuable the joy of adventure the friendship of strangers and the importance of never stopping to seek
+Disappointed but also enlightened cosmic returned home Although he didn't find a magical thread he had discovered something much more valuable the joy of adventure the friendship of strangers and the importance of never stopping to seek
 
-And so Cosmic the adventurous cat continued to explore the world not in search of lost treasures but in search of experiences and connections that enriched his life
+And so cosmic the adventurous cat continued to explore the world not in search of lost treasures but in search of experiences and connections that enriched his life although sometimes I think he should have kept looking for that magical thread who knows maybe another day he'll try again
+###### Score: 53 percent human probability: 53 percent of it being made by a human
 
 #### Spanish
 GPT 4o
