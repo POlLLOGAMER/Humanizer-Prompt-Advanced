@@ -65,7 +65,41 @@ And so cosmic the adventurous cat continued to explore the world not in search o
 ###### Score: 53 percent human probability: 53 percent of it being made by a human
 
 #### Spanish
-GPT 4o
-Qwen 2.5 
+##### GPT 4o:
+en el corazon de un vecindario tranquilo vivia un gato atigrado llamado Cosmico, a diferencia de sus compañeros felinos Cosmico no se conformaba con las siestas al sol y los ratones de juguete. soñaba con aventuras, con explorar mas alla del jardin y descubrir los secretos del universo.
+
+una noche estrellada Cosmico escucho una conversacion entre dos gatas callejeras hablaban del "hilo de ariadna" un hilo magico que podia guiar a cualquiera a traves de laberintos y peligros inimaginables, y que, segun la leyenda, estaba escondido en algun lugar de la ciudad.
+
+la curiosidad de Cosmico se encendio como una supernova. sin dudarlo empaco su diminuto morral con una sardina y una bola de lana, y se aventuro en la oscuridad. su viaje lo llevo por callejones misteriosos jardines abandonados y hasta el borde de un rio iluminado por la luna.
+
+en cada esquina Cosmico se encontro con personajes peculiares: un perro anciano con un parche en el ojo que le contaba historias de marineros una gata siamesa que conocia todos los chismes del barrio, y un grupo de ratones poetas que recitaban versos a la luna.
+
+finalmente despues de dias de busqueda Cosmico llego a una biblioteca polvorienta alli entre montañas de libros olvidados, encontro una anciana tortuga leyendo un tomo antiguo. la tortuga le revelo que el Hilo de Ariadna no era un hilo fisico sino una metafora de la sabiduria y la perseverancia.
+
+decepcionado pero tambien iluminado Cosmico regreso a casa, aunque no encontro un hilo magico habia descubierto algo mucho mas valioso la alegria de la aventura la amistad de extraños y la importancia de nunca dejar de buscar.
+
+y asi Cosmico, el gato aventurero siguio explorando el mundo, no en busca de tesoros perdidos sino en busca de experiencias y conexiones que enriquecieran su vida.
+###### Score in GPT Zero: 92 percent of it being human-made
+
+##### Qwen 2.5 MAX:
+en el corazon de un vecindario tranquilo, vivia un gato atigrado llamado Cosmico . a diferencia de sus compañeros felinos , Cosmico no se conformaba con las siestas al sol y los ratones de juguete. soñaba con aventuras con explorar mas alla del jardin y descubrir lo que fuera que haya mas alla porque eso era lo que siempre hacia dar vueltas en su cabeza pensando en lo que podria haber y lo que no habia visto todavia.
+
+una noche estrellada Cosmico escucho una conversacion entre dos gatas callejeras hablaban del "Hilo de Ariadna" un hilo magico que podia guiar a cualquiera a traves de laberintos y peligros inimaginables y que segun la leyenda estaba escondido en algun lugar de la ciudad pero nadie sabia donde ni como encontrarlo aunque claro todos querian saber donde estaba ese hilo tan especial
+
+la curiosidad de Cosmico se encendio como una supernova sin dudarlo empaco su diminuto morral con una sardina y una bola de lana y se aventuro en la oscuridad su viaje lo llevo por callejones misteriosos jardines abandonados y hasta el borde de un rio iluminado por la luna aunque aveces se preguntaba si realmente valia la pena seguir buscando o si solo estaba perdiendo el tiempo pero no importaba porque algo dentro de el le decia que siguiera adelante
+
+en cada esquina Cosmico se encontro con personajes peculiares como un perro anciano con un parche en el ojo que le contaba historias de marineros una gata siamesa que conocia todos los chismes del barrio y un grupo de ratones poetas que recitaban versos a la luna aunque claro no todos los versos eran buenos algunos eran bastante malos pero igual le gustaba escucharlos porque era parte de la aventura
+
+finalmente despues de dias de busqueda Cosmico llego a una biblioteca polvorienta alli entre montañas de libros olvidados encontro una anciana tortuga leyendo un tomo antiguo La tortuga le revelo que el Hilo de Ariadna no era un hilo fisico sino una metafora de la sabiduria y la perseverancia cosa que lo dejo pensando mucho porque el pensaba que seria algo tangible pero bueno asi son las cosas algunas veces
+
+decepcionado pero tambien iluminado Cosmico regreso a casa aunque no encontro un hilo magico habia descubierto algo mucho mas valioso la alegria de la aventura la amistad de extraños y la importancia de nunca dejar de buscar porque eso era lo que hacia la vida interesante para el y no queria dejar de hacerlo nunca
+
+y asi Cosmico el gato aventurero siguio explorando el mundo no en busca de tesoros perdidos sino en busca de experiencias y conexiones que enriquecieran su vida aunque claro tambien seguia pensando en otros misterios que quizas un dia resolveria pero por ahora estaba bien con lo que tenia y con lo que habia aprendido en su camino
+###### Score in GPT zero: 100 percent human-made
+
+
+
+
+
 
 
