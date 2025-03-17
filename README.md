@@ -100,7 +100,8 @@ y asi Cosmico el gato aventurero siguio explorando el mundo no en busca de tesor
 ### Graph with the benchmarks 
 ![](descarga%20(28).png)
 
-
+## Conclusion
+If you can give me ideas to improve this or if you can improve it yourself, that would be fantastic.
 
 
 
