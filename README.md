@@ -48,7 +48,19 @@ And so, Cosmic, the adventurous cat, continued to explore the world, not in sear
 ### Benchmarks of different llms humanizing texts with HPA (Humanizer Prompt Advanced)
 #### English
 
-GPT 4o: 
+Qwen 2.5 : In the heart of a quiet neighborhood lived a tabby cat named Cosmic unlike his feline friends Cosmic wasn't content with sun naps and toy mice he dreamed of adventures of exploring beyond the garden and discovering the secrets of the universe
+
+One starry night Cosmic overheard a conversation between two stray cats They spoke of "Ariadne's Thread" a magical thread that could guide anyone through labyrinths and unimaginable dangers and which according to legend was hidden somewhere in the city
+
+Cosmic's curiosity ignited like a supernova without hesitation he packed his tiny backpack with a sardine and a ball of yarn and ventured into the darkness His journey led him through mysterious alleys abandoned gardens and even to the edge of a moonlit river
+
+At every corner Cosmic encountered peculiar characters an old dog with an eye patch who told him stories of sailors a Siamese cat who knew all the neighborhood gossip and a group of poet mice who recited verses to the moon
+
+Finally after days of searching Cosmic arrived at a dusty library There among mountains of forgotten books he found an old turtle reading an ancient tome The turtle revealed that Ariadne's Thread was not a physical thread but a metaphor for wisdom and perseverance
+
+Disappointed but also enlightened Cosmic returned home Although he didn't find a magical thread he had discovered something much more valuable the joy of adventure the friendship of strangers and the importance of never stopping to seek
+
+And so Cosmic the adventurous cat continued to explore the world not in search of lost treasures but in search of experiences and connections that enriched his life
 
 #### Spanish
 GPT 4o
